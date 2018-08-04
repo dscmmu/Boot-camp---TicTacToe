@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BootTicTac</string>
+    <string name="reset">Reset Board</string>
+    <string name="letter_x">X</string>
+    <string name="letter_o">O</string>
+    <string name="app_icon">App icon</string>
+    <string name="main_label">Tic Tac Toe</string>
+</resources>
